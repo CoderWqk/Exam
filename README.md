@@ -14,7 +14,7 @@ vuex: "^3.1.2"
 [试卷管理](https://github.com/CoderWqk/GitDescriptImg/blob/master/exam/sjgl.png)  
 ## 
 ## 安装教程  
-1、运行代码到服务器上（如Wampserver64）  
+1、将代码运行至服务器（如Wampserver64）  
 2、安装*json-server*，终端切换到db.json所在文件夹，执行json-server --watch db.json命令  
 ## 使用说明
 * 注册的账号权限为普通用户
